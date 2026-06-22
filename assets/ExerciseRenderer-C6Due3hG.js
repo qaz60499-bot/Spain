@@ -1,4 +1,4 @@
-import{c as ae,r as o,u as we,j as t}from"./index-BchQAmXK.js";import{S as Oe}from"./SpeechPanel-BBzZap0J.js";import{g as Ee,r as Fe,s as qe}from"./speechEngine-h14ONOPM.js";import{V as He}from"./volume-2-779YTp_g.js";/**
+import{c as ae,r as o,u as we,j as t}from"./index-CQ2qLQog.js";import{S as Oe}from"./SpeechPanel-CeahGjDS.js";import{g as Ee,r as Fe,s as qe}from"./speechEngine-h14ONOPM.js";import{V as He}from"./volume-2-jgs3p9k8.js";/**
  * @license lucide-react v0.468.0 - ISC
  *
  * This source code is licensed under the ISC license.
